@@ -1,0 +1,78 @@
+data/obj_train_data/IMG_7388 - Copy.jpg
+data/obj_train_data/IMG_7388.jpg
+data/obj_train_data/IMG_7389 - Copy.jpg
+data/obj_train_data/IMG_7389.jpg
+data/obj_train_data/IMG_7390 - Copy.jpg
+data/obj_train_data/IMG_7390.jpg
+data/obj_train_data/IMG_7391 - Copy.jpg
+data/obj_train_data/IMG_7391.jpg
+data/obj_train_data/IMG_7392 - Copy.jpg
+data/obj_train_data/IMG_7392.jpg
+data/obj_train_data/IMG_7393 - Copy.jpg
+data/obj_train_data/IMG_7393.jpg
+data/obj_train_data/IMG_7394 - Copy.jpg
+data/obj_train_data/IMG_7394.jpg
+data/obj_train_data/IMG_7395 - Copy.jpg
+data/obj_train_data/IMG_7395.jpg
+data/obj_train_data/IMG_7396 - Copy.jpg
+data/obj_train_data/IMG_7396.jpg
+data/obj_train_data/IMG_7397 - Copy.jpg
+data/obj_train_data/IMG_7397.jpg
+data/obj_train_data/IMG_7398 - Copy.jpg
+data/obj_train_data/IMG_7398.jpg
+data/obj_train_data/IMG_7399 - Copy.jpg
+data/obj_train_data/IMG_7399.jpg
+data/obj_train_data/IMG_7400 - Copy.jpg
+data/obj_train_data/IMG_7400.jpg
+data/obj_train_data/IMG_7401 - Copy.jpg
+data/obj_train_data/IMG_7401.jpg
+data/obj_train_data/IMG_7402 - Copy.jpg
+data/obj_train_data/IMG_7402.jpg
+data/obj_train_data/IMG_7403 - Copy.jpg
+data/obj_train_data/IMG_7403.jpg
+data/obj_train_data/IMG_7404 - Copy.jpg
+data/obj_train_data/IMG_7404.jpg
+data/obj_train_data/IMG_7405 - Copy.jpg
+data/obj_train_data/IMG_7405.jpg
+data/obj_train_data/IMG_7407 - Copy (2).jpg
+data/obj_train_data/IMG_7407 - Copy - Copy.jpg
+data/obj_train_data/IMG_7407 - Copy.jpg
+data/obj_train_data/IMG_7407.jpg
+data/obj_train_data/IMG_7408 - Copy - Copy.jpg
+data/obj_train_data/IMG_7408 - Copy.jpg
+data/obj_train_data/IMG_7408.jpg
+data/obj_train_data/IMG_7409 - Copy.jpg
+data/obj_train_data/IMG_7409.jpg
+data/obj_train_data/IMG_7411 - Copy.jpg
+data/obj_train_data/IMG_7411.jpg
+data/obj_train_data/IMG_7412 - Copy.jpg
+data/obj_train_data/IMG_7412.jpg
+data/obj_train_data/IMG_7413 - Copy.jpg
+data/obj_train_data/IMG_7413.jpg
+data/obj_train_data/IMG_7414 - Copy.jpg
+data/obj_train_data/IMG_7414.jpg
+data/obj_train_data/IMG_7415 - Copy.jpg
+data/obj_train_data/IMG_7415.jpg
+data/obj_train_data/IMG_7417 - Copy.jpg
+data/obj_train_data/IMG_7417.jpg
+data/obj_train_data/IMG_7418 - Copy.jpg
+data/obj_train_data/IMG_7418.jpg
+data/obj_train_data/IMG_7420 - Copy.jpg
+data/obj_train_data/IMG_7420.jpg
+data/obj_train_data/IMG_7422 - Copy.jpg
+data/obj_train_data/IMG_7422.jpg
+data/obj_train_data/IMG_7423 - Copy.jpg
+data/obj_train_data/IMG_7423.jpg
+data/obj_train_data/IMG_7424 - Copy.jpg
+data/obj_train_data/IMG_7424.jpg
+data/obj_train_data/IMG_7425 - Copy.jpg
+data/obj_train_data/IMG_7425.jpg
+data/obj_train_data/IMG_7426 - Copy.jpg
+data/obj_train_data/IMG_7426.jpg
+data/obj_train_data/IMG_7432.jpg
+data/obj_train_data/IMG_7433 - Copy.jpg
+data/obj_train_data/IMG_7433.jpg
+data/obj_train_data/IMG_7434 - Copy.jpg
+data/obj_train_data/IMG_7434.jpg
+data/obj_train_data/IMG_7435 - Copy.jpg
+data/obj_train_data/IMG_7435.jpg

@@ -1,4 +1,6 @@
 # Techniques-in-Machine-Learning-and-Artificial-Intelligence
+Student Id: 23328400
+Github link: https://github.com/WilliamBanda/Techniques-in-Machine-Learning-and-Artificial-Intelligence.git
 
 # Deep Learning and Computer Vision Project
 Welcome to this project repository! The goal of this project is to explore and apply Deep Learning and computer vision concepts. The project involves conceiving, designing, training, evaluating, and presenting the results of a unique project.
